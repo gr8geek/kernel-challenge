@@ -113,5 +113,5 @@ module_init(chrdev_init);
 module_exit(chrdev_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Rodolfo Giometti");
+MODULE_AUTHOR("Pratyush");
 MODULE_DESCRIPTION("chrdev legacy");
